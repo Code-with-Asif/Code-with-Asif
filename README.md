@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
-### : About Me :
+###  About Me :
 
 # Hi, I'm Asif 👋
 
@@ -47,3 +47,7 @@ You can contact me through any of the following platforms:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Code-with-Asif&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-with-Asif&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

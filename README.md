@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Asif
-                                 ------------- Welcome to my Github repository!------------------
-             
-   I'd like to thank the open source community for all of the valuable resources and tools they provide. I'm grateful to be able to contribute to this community and hope that my projects can be of use to others as well.
-I'm always open to collaboration and welcome any contributions to my projects. If you see an opportunity to improve or add to my code, please feel free to submit a pull request or open an issue.
-<!---
-Code-with-Asif/Code-with-Asif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Asif 👋
+
+I'm a MERN Stack developer who loves to create web applications using MongoDB, Express, React, and Node.js.
+
+## 🚀 Skills and Tools
+
+- Front-end development with **React**, **Redux**, **Bootstrap**, **Material-UI**, etc.
+- Back-end development with **Node.js**, **Express**, **MongoDB**, **Mongoose**, etc.
+- Testing tools like **Jest**, **Enzyme**, **Mocha**, **Chai**, etc.
+- Version control with **Git** and **GitHub**
+- Deployment with  **Netlify**, **Firebase**, etc.
+
+
+
+## 📫 How to reach me
+
+You can contact me through any of the following platforms:
+
+- Email: asifdeveloper430@gmail.com
+
+
+## 📈 GitHub Stats
+
+
+
+!Your GitHub languages

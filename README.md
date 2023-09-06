@@ -6,7 +6,7 @@ I'm a MERN Stack developer who loves to create web applications using MongoDB, E
 
 - Front-end development with **React**, **Redux**, **Bootstrap**, **Material-UI**, etc.
 - Back-end development with **Node.js**, **Express**, **MongoDB**, **Mongoose**, etc.
-- Testing tools like **Jest**, **Enzyme**, **Mocha**, **Chai**, etc.
+- Testing tools like **Jest**, **Enzyme**,  etc.
 - Version control with **Git** and **GitHub**
 - Deployment with  **Netlify**, **Firebase**, etc.
 

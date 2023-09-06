@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif" width="100"/>
 </div>
 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></div>
+
 ###  About Me :
 
 # Hi, I'm Asif 👋

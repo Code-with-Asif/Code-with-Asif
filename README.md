@@ -33,7 +33,7 @@ I'm a MERN Stack developer who loves to create web applications using MongoDB, E
 
 ## 📫 How to reach me
 
-You can contact me through any of the following platforms:
+You can contact me through Gmail:
 
 - Email: asifdeveloper430@gmail.com
 

@@ -23,7 +23,7 @@ I'm a MERN Stack developer who loves to create web applications using MongoDB, E
 
 ## 🚀 Skills and Tools
 
-- Front-end development with **React**, **Redux**, **Bootstrap**, **Material-UI**, etc.
+- Front-end development with **React**, **Redux**, **Bootstrap**, **Material-UI**, **JavaScript**, etc.
 - Back-end development with **Node.js**, **Express**, **MongoDB**, **Mongoose**, etc.
 - Testing tools like **Jest**, **Enzyme**,  etc.
 - Version control with **Git** and **GitHub**

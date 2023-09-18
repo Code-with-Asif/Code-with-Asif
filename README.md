@@ -34,7 +34,7 @@ I'm a MERN Stack developer who loves to create web applications using MongoDB, E
 
 You can contact me through Gmail:
 
-- Email: asifdeveloper430@gmail.com
+- Email: asifdeveloper430@gmail.com.
 
 
 ###  :hammer_and_wrench: Languages and Tools :

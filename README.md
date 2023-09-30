@@ -30,7 +30,7 @@ I'm a MERN Stack developer who loves to create web applications using MongoDB, E
 - Deployment with  **Netlify**, **Firebase**, etc.
 
 
-## 📫 How to reach me ................................
+## 📫 How to reach me 
 
 You can contact me through Gmail:
 

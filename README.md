@@ -19,7 +19,7 @@
 
 # Hi, I'm Asif 👋..................
 
-I'm  an enthusiastic and Passionate Software Developer who loves to create web applications using  React.js, Node.js and Python.
+I'm  an enthusiastic and Passionate Web  Developer who loves to create web applications using  React.js, Node.js and Python.
 
 ## 🚀 Skills and Tools:
 

@@ -52,7 +52,7 @@ You can contact me through Gmail:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="sass" width="40" height="40"/>&nbsp;
-<img src="" title="" alt="" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="next.js" width="40" height="40"/>&nbsp;
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 

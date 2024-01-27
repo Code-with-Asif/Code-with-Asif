@@ -17,7 +17,7 @@
 
 ###  About Me:
 
-# Hi, I'm Asif 👋.....................
+# Hi, I'm Asif 👋.................
 
 I'm  an enthusiastic and Passionate Web  Developer who loves to create web applications using  React.js, Node.js and Python.
 

@@ -23,13 +23,13 @@ I'm  an enthusiastic and Passionate Web  Developer who loves to create web appli
 
 ## 🚀 Skills and Tools:
 
-Front-end development with React, Redux, Bootstrap, SCSS, Material-UI, JavaScript, etc.
-Back-end development with Node.js, Express, MongoDB, Mongoose, etc.
-Web scraping and automation using Python, Selenium, BeautifulSoup, etc.
-API development and server-side programming with Django, FastAPI, Flask, etc.
-Testing tools like Jest, Enzyme, etc.
-Version control with Git and GitHub
-Deployment with Netlify, Firebase, etc.
+-Front-end development with **React**, Redux, Bootstrap, SCSS, Material-UI, JavaScript, etc.
+-Back-end development with Node.js, Express, MongoDB, Mongoose, etc.
+-Web scraping and automation using Python, Selenium, BeautifulSoup, etc.
+-API development and server-side programming with Django, FastAPI, Flask, etc.
+-Testing tools like Jest, Enzyme, etc.
+-Version control with Git and GitHub
+-Deployment with Netlify, Firebase, etc.
 
 
 
